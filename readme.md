@@ -9,6 +9,13 @@ Features:
 - Real URLs of the files are hidden under UUID-based URLs for download
 - Users can upload up to 5 files, after that they can subscribe to premium plan (payment via Stripe)
 
+## Clickable live-demo
+
+[demo-filestorage.quickadminpanel.com](http://demo-filestorage.quickadminpanel.com)
+
+- __Email__: admin@admin.com
+- __Pass__: password
+
 ![File_storage screenshot](http://webcoderpro.com/file-storage-demo-01.png)
 
 ![File_storage_screenshot_02](http://webcoderpro.com/file-storage-demo-02.png)
