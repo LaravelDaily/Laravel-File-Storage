@@ -16,9 +16,7 @@ Features:
 - __Email__: admin@admin.com
 - __Pass__: password
 
-![File_storage screenshot](http://webcoderpro.com/file-storage-demo-01.png)
-
-![File_storage_screenshot_02](http://webcoderpro.com/file-storage-demo-02.png)
+![File_storage screenshot](https://quickadminpanel.com/assets/pages/demos/demo-filestorage-01.png)
 
 ## How to use
 
